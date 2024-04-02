@@ -14,22 +14,23 @@ Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimento
 <a href="https://github.com/juliolobo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliolobo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/juliolobo">
+<!-- <a href="https://github.com/juliolobo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliolobo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="juliolobo's GitHub Stats" />
-</a> 
+</a> -->
+<a href="https://github.com/juliolobo/juliolobo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliolobo&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ## 🤝 Entre em contato
 
 
 <a href="https://wa.me/5521964218122?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20um%20duvida" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
-</a>&nbsp;
+</a>
 <a href="https://www.linkedin.com/in/juliolobo" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>&nbsp;
+</a>
 <a href="mailto:juliolobo@lobohost.com.br">
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
+</a>
 
 <!-- links to social media icons -->
 
