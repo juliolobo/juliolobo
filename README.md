@@ -21,7 +21,7 @@ Apaixonado por tecnologia e desenvolvimento de plataformas Web, com conhecimento
 ## 🤝 Entre em contato
 
 
-<a href="https://wa.me/5521964218122?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20um%20duvida" alt="Connect on Whatsapp"> 
+<a href="https://wa.me/5521964218122?text=Venho%20do%20Github%20e%20gostaria%20de%20tirar%20uma%20duvida" alt="Connect on Whatsapp"> 
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> 
 </a> <a href="https://www.linkedin.com/in/juliolobo" alt="Connect on LinkedIn"> 
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
